@@ -20,4 +20,4 @@ The dataset is reduced to two principal components to identify essential variabl
 Logistic Regression was used to evaluate predictive performance after PCA.
 
 ## Author
-Oruh Erhiga Precious
+Oruh Precious
